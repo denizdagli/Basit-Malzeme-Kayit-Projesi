@@ -1,0 +1,10 @@
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\bin\Debug\malzemeKayitDemo.exe.config
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\bin\Debug\malzemeKayitDemo.exe
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\bin\Debug\malzemeKayitDemo.pdb
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\obj\Debug\malzemeKayitDemo.csproj.AssemblyReference.cache
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\obj\Debug\malzemeKayitDemo.Form1.resources
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\obj\Debug\malzemeKayitDemo.Properties.Resources.resources
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\obj\Debug\malzemeKayitDemo.csproj.GenerateResource.cache
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\obj\Debug\malzemeKayitDemo.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\obj\Debug\malzemeKayitDemo.exe
+C:\Users\Deniz\Desktop\Malzeme Kayıt Projesi\malzemeKayitDemo\malzemeKayitDemo\obj\Debug\malzemeKayitDemo.pdb
